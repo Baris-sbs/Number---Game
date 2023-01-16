@@ -1,0 +1,22 @@
+body {
+  height: 900vh;
+  text-align: center;
+  background-image: linear-gradient(to bottom right, rgb(168, 9, 41), rgb(230, 211, 211));
+}
+input{
+  padding: 2px;
+  margin: 2px;
+ 
+  border-radius: 4px ;
+  
+  
+}
+button {
+  cursor: pointer;
+  border-radius: 0.5rem;
+  
+  
+}
+.container{
+  margin: 120px;
+}
